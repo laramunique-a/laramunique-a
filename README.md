@@ -23,7 +23,7 @@ Sou dev Full Stack em formação e tenho 26 anos. :rocket:
 </strong>
 
 😄💬 Quer me conhecer mais e trocar uma ideia? 
-<p>  
+</p>  
   <a href="#" alt="Linkedin">
   <a href="https://www.linkedin.com/in/lara-munique-almeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
