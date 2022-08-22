@@ -1,3 +1,4 @@
+<img src="https://cdn3d.iconscout.com/3d/premium/thumb/development-3981411-3297349.png" min-width="200px" max-width="200px" width="350px" align="right" alt="Computador iuriCode">
 
 #### Oi! 👋 Sou a Lara Munique! 
 
