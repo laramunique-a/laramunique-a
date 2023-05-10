@@ -2,7 +2,7 @@
 
 #### Oi! 👋 Sou a Lara Munique! 
 
-Sou dev Full Stack em formação e tenho 26 anos. :rocket:
+Sou estudante de ADS e tenho 26 anos. :rocket:
 
 :woman_technologist: Atualmente estou aprendendo sobre: <br />
 <strong>
